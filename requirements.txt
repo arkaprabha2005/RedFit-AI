@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-pandas
-numpy
-sentence-transformers
-scikit-learn
-orjson
-plotly
-python-multipart
