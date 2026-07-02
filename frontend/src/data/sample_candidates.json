@@ -1,0 +1,26 @@
+[
+  {
+    "candidate_id": "CAND_001",
+    "profile": {
+      "name": "Rahul Sharma",
+      "headline": "ML Engineer",
+      "years_of_experience": 4
+    },
+    "skills": [
+      { "name": "Python" },
+      { "name": "NLP" }
+    ]
+  },
+  {
+    "candidate_id": "CAND_002",
+    "profile": {
+      "name": "Aditi Verma",
+      "headline": "Data Engineer",
+      "years_of_experience": 5
+    },
+    "skills": [
+      { "name": "Spark" },
+      { "name": "SQL" }
+    ]
+  }
+]
