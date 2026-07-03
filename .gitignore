@@ -1,29 +1,24 @@
-# Node
-node_modules/
-frontend/node_modules/
-
 # Python
 __pycache__/
 *.pyc
 .venv/
 venv/
-
-# Environment
 .env
 
-# Build files
-dist/
-build/
+# Hugging Face / Models
+.cache/
+huggingface/
 
-# Vite
-.vite/
+# Downloads
+downloads/
+
+# Node
+node_modules/
+dist/
+
+# VS Code
+.vscode/
 
 # OS
 .DS_Store
 Thumbs.db
-
-# IDE
-.vscode/
-
-# Logs
-*.log
